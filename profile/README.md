@@ -10,7 +10,7 @@ At Klinoff Corporation, we strive to push the boundaries of technology and deliv
 
 ### Klinoffmath
 
-We are proud creators of the "Klinoffmath" PyPI package, a powerful mathematical library designed to simplify complex calculations. With Klinoffmath, you can perform a wide range of mathematical operations with ease, including advanced functions, statistical analysis, and matrix computations.
+We are proud creators of the "Klinoffmath" PyPI package, a powerful mathematical library designed to simplify complex calculations. With Klinoffmath, you can perform a wide range of mathematical operations with ease with Klinoff by your side!
 
 ## Get in Touch
 
